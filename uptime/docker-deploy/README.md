@@ -22,8 +22,8 @@ This project provides a one-click deployment solution for [Uptime Kuma](https://
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/docker-deploy.git
-   cd docker-deploy
+   git clone https://github.com/Dashrdp/oneclick.git
+   cd uptime/docker-deploy
    ```
 
 2. Make the installation script executable:
